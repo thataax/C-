@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\amorvitu\testeamor\bin\Debug\testeamor.exe.config
+C:\Users\Aluno\Desktop\amorvitu\testeamor\bin\Debug\testeamor.exe
+C:\Users\Aluno\Desktop\amorvitu\testeamor\bin\Debug\testeamor.pdb
+C:\Users\Aluno\Desktop\amorvitu\testeamor\obj\Debug\testeamor.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\amorvitu\testeamor\obj\Debug\testeamor.Properties.Resources.resources
+C:\Users\Aluno\Desktop\amorvitu\testeamor\obj\Debug\testeamor.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\amorvitu\testeamor\obj\Debug\testeamor.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\amorvitu\testeamor\obj\Debug\testeamor.exe
+C:\Users\Aluno\Desktop\amorvitu\testeamor\obj\Debug\testeamor.pdb
+C:\Users\Aluno\Desktop\amorvitu\testeamor\obj\Debug\testeamor.Form1.resources
