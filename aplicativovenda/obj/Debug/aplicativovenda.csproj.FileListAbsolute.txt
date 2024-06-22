@@ -1,0 +1,20 @@
+C:\Users\Aluno\Desktop\230622\aplicativovenda\bin\Debug\aplicativovenda.exe.config
+C:\Users\Aluno\Desktop\230622\aplicativovenda\bin\Debug\aplicativovenda.exe
+C:\Users\Aluno\Desktop\230622\aplicativovenda\bin\Debug\aplicativovenda.pdb
+C:\Users\Aluno\Desktop\230622\aplicativovenda\obj\Debug\aplicativovenda.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\230622\aplicativovenda\obj\Debug\aplicativovenda.Properties.Resources.resources
+C:\Users\Aluno\Desktop\230622\aplicativovenda\obj\Debug\aplicativovenda.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\230622\aplicativovenda\obj\Debug\aplicativovenda.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\230622\aplicativovenda\obj\Debug\aplicativovenda.exe
+C:\Users\Aluno\Desktop\230622\aplicativovenda\obj\Debug\aplicativovenda.pdb
+C:\Users\Aluno\Desktop\230622\aplicativovenda\obj\Debug\aplicativovenda.Form1.resources
+F:\programas mega elaborados do Victor\230622\aplicativovenda\bin\Debug\aplicativovenda.exe.config
+F:\programas mega elaborados do Victor\230622\aplicativovenda\bin\Debug\aplicativovenda.exe
+F:\programas mega elaborados do Victor\230622\aplicativovenda\bin\Debug\aplicativovenda.pdb
+F:\programas mega elaborados do Victor\230622\aplicativovenda\obj\Debug\aplicativovenda.csproj.AssemblyReference.cache
+F:\programas mega elaborados do Victor\230622\aplicativovenda\obj\Debug\aplicativovenda.Form1.resources
+F:\programas mega elaborados do Victor\230622\aplicativovenda\obj\Debug\aplicativovenda.Properties.Resources.resources
+F:\programas mega elaborados do Victor\230622\aplicativovenda\obj\Debug\aplicativovenda.csproj.GenerateResource.cache
+F:\programas mega elaborados do Victor\230622\aplicativovenda\obj\Debug\aplicativovenda.csproj.CoreCompileInputs.cache
+F:\programas mega elaborados do Victor\230622\aplicativovenda\obj\Debug\aplicativovenda.exe
+F:\programas mega elaborados do Victor\230622\aplicativovenda\obj\Debug\aplicativovenda.pdb
